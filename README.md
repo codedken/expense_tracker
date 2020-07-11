@@ -1,16 +1,27 @@
-# expense_planner
+# Expense Tracker
 
-A new Flutter project.
+Monitor how much you've spent.
 
-## Getting Started
+## Getting Started with expense tracker
 
-This project is a starting point for a Flutter application.
+This app is intended for keeping track of your
+expenses. 
 
-A few resources to get you started if this is your first Flutter project:
+How to use expense tracker;
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Click on the floating action button below the screen or the add icon on the top right corner of your screen.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Enter the reason for spending in the title input field
+
+- Enter the amount spent in the amount input field
+
+- choose the date of spending by clicking on the choose date text
+
+- Then click on add transaction
+
+- You can delete an expense by clicking on the bin icon on the right side of the expense card
+
+Happy tracking... 
+smiley
+
+
