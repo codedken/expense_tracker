@@ -21,6 +21,4 @@ How to use expense tracker;
 
 - You can delete an expense by clicking on the bin icon on the right side of the expense card
 
-Happy tracking... ji:grinning-face
-
-
+Happy tracking...
